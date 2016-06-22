@@ -4,8 +4,8 @@ Repository with my .gitignore files.
 > ObjC-Swift.gitignore
 
 To add the gitignore file to your project, you follow the next steps:
-1. Rename the file to .gitignore.
-2. Add file to project.
+* Rename the file to .gitignore.
+* Add file to project.
 
 ## Version
 1.0
