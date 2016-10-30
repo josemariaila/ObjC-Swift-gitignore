@@ -1,4 +1,4 @@
-# ObjC-Swift-gitignore
+# ObjC-Swift-gitignore [![Github License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/joserock85/ObjC-Swift-gitignore/blob/master/LICENSE) [![GitHub tag](https://img.shields.io/badge/tag-1.0-blue.svg)](https://github.com/joserock85/ObjC-Swift-gitignore/releases/tag/1.0)
 Repository with my .gitignore files.
 
 > ObjC-Swift.gitignore
